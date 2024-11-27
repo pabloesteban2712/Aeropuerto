@@ -1,0 +1,5 @@
+id,fecha_llegada,retraso,tipo_vuelo,destino
+VY4548,08/06/2022 10:30,-,NAT,Helsinki
+VY3888,08/06/2022 15:00,00:10,NAT,Roma
+VY1605,08/06/2022 08:45,-,NAT,Madrid
+VY3307,08/05/2022 12:30,-,INTERNAT,Sao Paulo

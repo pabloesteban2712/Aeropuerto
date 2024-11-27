@@ -1,0 +1,5 @@
+id, fecha_llegada, retraso, tipo_vuelo, destino
+VY4547, 08/05/2022T10:30, -, NAT, Paris
+VY3887, 08/05/2022T15:00, 00:10, NAT, Sevilla
+VY1603, 08/05/2022T08:45, -, INTERNAT, Nueva York
+VY3302, 08/05/2022T12:30, 00:15, NAT, Bruselas
